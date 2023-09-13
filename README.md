@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full MERN Stack Developer
 - 🌱 I’m currently learning MongoDB, Expressjs, Nodejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kchary.ccbp.tech
+- 📫 How to reach me ...
 
 <!---
 kammariSuresh/kammariSuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
