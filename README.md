@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kammariSuresh
-- 👀 I’m interested in Full MERN Stack Developer
-- 🌱 I’m currently learning MongoDB, Expressjs, Nodejs
+- 👀 I’m interested in UI/FrontEnd Developer
+- 🌱 I’m currently learning Python, MongoDB, Expressjs, Nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
